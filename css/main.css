@@ -1,0 +1,59 @@
+a:hover {
+	text-decoration: underline;
+}
+
+.button {
+	border: none;
+	background-color: grey;
+	padding: 5px 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	margin: 0 40px;
+}
+
+div {
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	margin: 18px 60px;
+	text-align: center;
+	background-color: black; 
+}
+
+ul {
+	background-color: black;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+button:hover {
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.button1 {
+	border: none;
+	background-color: blue;
+	padding: 5px 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	margin: 0 40px;
+}
+
+.button2 {
+	border: none;
+	background-color: red;
+	padding: 5px 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	margin: 0 40px;
+}
